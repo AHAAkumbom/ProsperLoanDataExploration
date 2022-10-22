@@ -1,5 +1,6 @@
 # ProsperLoanDataExploration-Data_Visualization
 ![prosper](https://user-images.githubusercontent.com/44718084/197364950-b83790fe-5c1c-4c94-931c-afb894dfafed.png)
+### Udacity-Data-Anayltic-Project-3
 ### by (Achumbom Haggai Akumbom)
 ## Preliminary Wrangling
 The ProsperLoan data set [data dictionary](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0) Contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate),current loan status, borrower income, and many others. 
