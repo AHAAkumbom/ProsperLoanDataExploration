@@ -23,6 +23,9 @@ We Noticed through out our exploartion that Factors like Terms and Emplyoment st
 
 
 ## Key Insights for Presentation
+![download (1)](https://user-images.githubusercontent.com/44718084/197365104-4b9960aa-edf9-4274-920d-edcd5d0b2b81.png)
+![download](https://user-images.githubusercontent.com/44718084/197365001-5e41474b-98f2-4dba-a5f3-38d7dfa4942e.png)
+![download (2)](https://user-images.githubusercontent.com/44718084/197365078-cd307849-e78a-4405-8bf1-e234a0c73fea.png)
 
 For the presentation, I focus on just the on the selected colums. I start by Ploting the distribution of the  Loan Status through out the data set, followed by the pointing out the distrubtion of the terms in month through out the data set
 
